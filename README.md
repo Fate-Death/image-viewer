@@ -1,6 +1,8 @@
-# Simple PPM Image Viewer
+# PPM Image Viewer
 
 A lightweight, C-based image viewer designed specifically for PPM (Portable Pixel Map) files. Unlike standard viewers, this project implements its own PPM parsing logic for both P3 (ASCII) and P6 (Binary) formats, rendering them using the SDL2 library.
+
+<img width="1279" height="722" alt="image" src="https://github.com/user-attachments/assets/fcfd80d3-ddfe-4954-8685-181803d07aa5" />
 
 ## Features
 
